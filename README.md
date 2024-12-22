@@ -183,7 +183,7 @@ Welcome to your comprehensive guide to essential resources curated for your cour
    - [Jenny's Lectures](https://www.youtube.com/playlist?list=PLdo5W4Nhv31a5ucW_S1K3-x6ztBRD-PNa)
    - [MTC Midsem-Prep Workshop](https://drive.google.com/file/d/1jEbVJbnKwLwfOkcD8_OZXwNrVqCQfAGl/view?usp=drive_link)
      
-3. **Thoery of Computation**
+3. **Theory of Computation**
    - [Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFM9Lj5G9G_76adtyb4ef7i)
    - [Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev)
    - [Anita R](https://www.youtube.com/playlist?list=PL6xbXi2C3sePDwyboAcu7l1UYuUT2SWYd)
